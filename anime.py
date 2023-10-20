@@ -163,7 +163,7 @@ def main():
 /_/  \____/\____/____/\__/\___/_/  /_//____/____/ /_/   
                                                         
 Anime Streaming And Downloader by github.com/fooster1337
-Website using : https://45.12.2.28 (kuronime)
+Website using : https://samehadaku.vin
 """
     print(banner)
     check_mpv()
