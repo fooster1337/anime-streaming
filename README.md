@@ -17,7 +17,7 @@ Install mpv : https://mpv.io/installation
   <p>Use command : you_package_manager_command_for_install mpv (I thought you were an adult so how come you don't know the package manager of the linux you're using?)</p>
 
 </details>
-For pip use command : pip/pip3 install requests bs
+For pip use command : pip/pip3 install requests bs4
 
 Installation!.<br>
 Clone this repository
